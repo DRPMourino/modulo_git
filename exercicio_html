@@ -18,8 +18,8 @@
         <label for="senha">Senha:</label>
         <input id="senha" type="senha" />
         <br />
-        <label for="Confirma de senha">Confirma de senha:</label>
-        <input id="Confirma de senha" type="onfirma de senha" />
+        <label for="Confirme a senha">Confirme a senha:</label>
+        <input id="Confirmae a senha" type="Confirma a senha" />
         <br />
         <label for="telefone">Telefone de contato:</label>
         <input id="telefone" type="telefone" />
