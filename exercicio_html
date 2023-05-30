@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de cadastro</title>
+</head>
+<body>
+    <h1>Cadastro</h1>
+    <form>
+        <label for="nome">Nome completo:</label>
+        <input id="nome" type="nome" />
+        <br />
+        <label for="email">Seu e-mail:</label>
+        <input id="email" type="email" />
+        <br />
+        <label for="senha">Senha:</label>
+        <input id="senha" type="senha" />
+        <br />
+        <label for="Confirma de senha">Confirma de senha:</label>
+        <input id="Confirma de senha" type="onfirma de senha" />
+        <br />
+        <label for="telefone">Telefone de contato:</label>
+        <input id="telefone" type="telefone" />
+        <br />
+        <button type="submit" >
+        CADASTRAR
+</body>
+</html>
